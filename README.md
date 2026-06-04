@@ -1,11 +1,11 @@
 Aisyah Azzahrah_G1A024033
 
-# ⚡ UNIB Neural-Sync Router
+# UNIB Neural-Sync Router
 
 UNIB Neural-Sync Router adalah aplikasi navigasi cerdas berbasis Artificial Intelligence (AI) dan geospasial yang dibuat menggunakan Python dan Streamlit.
 Aplikasi ini dirancang untuk membantu pengguna menentukan rute tercepat antar gedung di lingkungan Universitas Bengkulu secara interaktif dan modern.
 
-## 🚀 Fitur Utama
+## Fitur Utama
 
 * Prediksi waktu tempuh menggunakan Machine Learning (Random Forest)
 * Perhitungan jarak otomatis dengan Geodesic Distance
@@ -15,7 +15,7 @@ Aplikasi ini dirancang untuk membantu pengguna menentukan rute tercepat antar ge
 * Analisis kepadatan lalu lintas kampus
 * Tampilan UI futuristik cyberpunk
 
-## 🛠️ Teknologi yang Digunakan
+## Teknologi yang Digunakan
 
 * Python
 * Streamlit
@@ -25,7 +25,7 @@ Aplikasi ini dirancang untuk membantu pengguna menentukan rute tercepat antar ge
 * OSRM API
 * NumPy
 
-## ▶️ Cara Menjalankan Project
+## Cara Menjalankan Project
 
 ### 1. Install dependency
 
@@ -45,7 +45,7 @@ atau
 streamlit run rute_unib.py
 ```
 
-## 📌 Tujuan Project
+## Tujuan Project
 
 Project ini dibuat sebagai implementasi AI Developer dan sistem navigasi geospasial untuk membantu pengguna menemukan jalur optimal di area kampus Universitas Bengkulu.
 
