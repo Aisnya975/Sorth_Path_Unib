@@ -1,7 +1,4 @@
-# Sorth_Path_Unib
-
-Aisyah Azzahrah
-G1A024033
+Aisyah Azzahrah_G1A024033
 
 # ⚡ UNIB Neural-Sync Router
 
